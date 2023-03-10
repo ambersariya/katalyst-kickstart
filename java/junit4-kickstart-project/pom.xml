@@ -9,7 +9,7 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <mockito.version>3.3.3</mockito.version>
         <maven.surfire.version>3.0.0-M5</maven.surfire.version>
         <assertj.version>3.19.0</assertj.version>
